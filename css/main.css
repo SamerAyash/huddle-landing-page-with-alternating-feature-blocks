@@ -239,6 +239,9 @@ footer .content .social a{
     border: 1px solid var(--very-pale-cyan);
     border-radius: 50px;
 }
+footer .content .links ul li a:hover{
+    text-decoration: underline !important;
+}
 footer .content .social a:hover{
     transform: scale(1.1);
     color: var(--primary-pink);
